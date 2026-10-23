@@ -1,5 +1,5 @@
 import pandas as pd
 
-a = pd.read_pickle("")
+a = pd.read_pickle("archivoa")
 
-kvlmslfkmvfskmvlkv
+kvlmslfk
